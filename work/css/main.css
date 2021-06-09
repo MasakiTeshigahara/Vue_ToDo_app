@@ -17,6 +17,7 @@ ul {
 ul > li {
     margin: 5px;
     mask-repeat: no-repeat;
+    padding-left: 10px;
     /* text-indent: 0; */
 }
 ul > li > .complete {
